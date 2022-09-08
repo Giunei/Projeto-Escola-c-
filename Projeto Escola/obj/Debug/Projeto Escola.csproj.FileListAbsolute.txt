@@ -1,0 +1,12 @@
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\bin\Debug\Projeto Escola.exe.config
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\bin\Debug\Projeto Escola.exe
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\bin\Debug\Projeto Escola.pdb
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.csproj.AssemblyReference.cache
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto_Escola.View.CadastroAluno.resources
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto_Escola.Form1.resources
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto_Escola.Properties.Resources.resources
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.csproj.GenerateResource.cache
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.csproj.CoreCompileInputs.cache
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.exe
+C:\Users\GIUNEI\source\repos\Projeto Escola\Projeto Escola\obj\Debug\Projeto Escola.pdb
